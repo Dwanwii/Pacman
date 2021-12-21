@@ -1,0 +1,1430 @@
+﻿Log file open, 12/14/20 20:35:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tarea2_Battlecity
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.110351
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal 4/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Engine.ini]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Engine.ini]
+[2020.12.14-23.35.54:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Engine.ini]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.14-23.35.54:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Engine.ini]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.14-23.35.54:237][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Engine.ini]
+[2020.12.14-23.35.54:237][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Engine.ini]
+[2020.12.14-23.35.54:242][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:242][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.14-23.35.54:242][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.14-23.35.54:242][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:242][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.14-23.35.54:242][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.14-23.35.54:243][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.14-23.35.54:244][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.14-23.35.54:244][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.14-23.35.54:244][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.14-23.35.54:248][  0]LogHAL: Display: Platform has ~ 8 GB [8464355328 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.14-23.35.54:248][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.14-23.35.54:249][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.14-23.35.54:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Scalability.ini]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.14-23.35.54:250][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.14-23.35.54:251][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.14-23.35.54:251][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.14-23.35.54:251][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Config/Windows/Engine.ini]
+[2020.12.14-23.35.54:251][  0]LogInit: Computer: LAPTOP-AE9SPVGE
+[2020.12.14-23.35.54:251][  0]LogInit: User: Dwanwii
+[2020.12.14-23.35.54:251][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.14-23.35.54:251][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.14-23.35.54:251][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.12.14-23.35.54:251][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.14-23.35.54:251][  0]LogMemory: Process Physical Memory: 105.06 MB used, 105.07 MB peak
+[2020.12.14-23.35.54:251][  0]LogMemory: Process Virtual Memory: 100.62 MB used, 100.62 MB peak
+[2020.12.14-23.35.54:251][  0]LogMemory: Physical Memory: 6414.08 MB used,  1658.16 MB free, 8072.24 MB total
+[2020.12.14-23.35.54:251][  0]LogMemory: Virtual Memory: 5137.62 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.12.14-23.35.54:256][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.14-23.35.54:289][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.12.14-23.35.54:289][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.12.14-23.35.54:289][  0]LogInit: Using OS detected locale (es-CL).
+[2020.12.14-23.35.54:536][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.14-23.35.54:584][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.14-23.35.54:584][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.14-23.35.55:096][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.14-23.35.55:096][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.14-23.35.55:096][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.14-23.35.55:096][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.14-23.35.55:199][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.12.14-23.35.55:199][  0]LogD3D11RHI:       3962/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.14-23.35.55:229][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.14-23.35.55:229][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.14-23.35.55:234][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.14-23.35.55:234][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.14-23.35.55:234][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.14-23.35.55:274][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.14-23.35.55:274][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.14-23.35.55:274][  0]LogWindows: EnumDisplayDevices:
+[2020.12.14-23.35.55:274][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.14-23.35.55:275][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.14-23.35.55:275][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.14-23.35.55:275][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:1)
+[2020.12.14-23.35.55:275][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.12.14-23.35.55:276][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.12.14-23.35.55:276][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.12.14-23.35.55:276][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.14-23.35.55:276][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.12.14-23.35.55:276][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.12.14-23.35.55:276][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.12.14-23.35.55:276][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.12.14-23.35.55:327][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.14-23.35.55:327][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.14-23.35.55:409][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.14-23.35.55:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.14-23.35.55:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.14-23.35.55:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.14-23.35.55:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.14-23.35.55:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.14-23.35.55:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.14-23.35.55:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.14-23.35.55:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.14-23.35.55:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.14-23.35.56:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.14-23.35.56:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.14-23.35.56:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.14-23.35.56:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.14-23.35.56:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.14-23.35.56:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.14-23.35.56:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.14-23.35.56:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.14-23.35.56:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.14-23.35.56:070][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.14-23.35.56:074][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.14-23.35.56:097][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Intermediate/Shaders/WorkingDirectory/14192/).
+[2020.12.14-23.35.56:097][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dwanwii~/AppData/Local/Temp/UnrealShaderWorkingDir/4AA9EA98465C1EB8C1F54A80712CDE20/'.
+[2020.12.14-23.35.56:097][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.14-23.35.56:097][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.14-23.35.56:098][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.14-23.35.56:939][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.14-23.35.57:001][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Dwanwii~/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.14-23.35.57:002][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dwanwii~/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.12.14-23.35.57:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.14-23.35.57:002][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.14-23.35.57:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.14-23.35.57:002][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.14-23.35.57:011][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.14-23.35.57:011][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.14-23.35.57:011][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.14-23.35.57:013][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dwanwii~/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.14-23.35.57:013][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.14-23.35.57:013][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.14-23.35.57:034][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.14-23.35.57:036][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.14-23.35.57:037][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.14-23.35.57:288][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.12.14-23.35.57:563][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.14-23.35.57:713][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.14-23.35.57:713][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.14-23.35.57:713][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.14-23.35.57:713][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.14-23.35.57:713][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.14-23.35.57:725][  0]LogNetVersion: Tarea2_Battlecity 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 988935884)
+[2020.12.14-23.36.00:358][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.119880 seconds
+[2020.12.14-23.36.00:372][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.12.14-23.36.00:372][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.12.14-23.36.00:372][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.14-23.36.01:007][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.14-23.36.01:010][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.14-23.36.01:094][  0]SourceControl: Source control is disabled
+[2020.12.14-23.36.01:095][  0]SourceControl: Source control is disabled
+[2020.12.14-23.36.01:100][  0]SourceControl: Source control is disabled
+[2020.12.14-23.36.01:103][  0]SourceControl: Source control is disabled
+[2020.12.14-23.36.01:104][  0]SourceControl: Source control is disabled
+[2020.12.14-23.36.01:120][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.14-23.36.01:120][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.14-23.36.01:240][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.14-23.36.01:259][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.14-23.36.01:259][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.14-23.36.01:388][  0]LogOcInput: OculusInput pre-init called
+[2020.12.14-23.36.01:395][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.14-23.36.01:395][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.14-23.36.01:457][  0]LogEngine: Initializing Engine...
+[2020.12.14-23.36.01:458][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.14-23.36.01:459][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.14-23.36.01:781][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.14-23.36.01:787][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.14-23.36.01:808][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-23.36.01:808][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-23.36.01:808][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-23.36.01:808][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-23.36.01:808][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-23.36.01:808][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-23.36.01:808][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-23.36.01:808][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-23.36.01:808][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-23.36.01:808][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: Channel Order:
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-23.36.01:825][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-23.36.01:849][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.14-23.36.01:854][  0]LogInit: FAudioDevice initialized.
+[2020.12.14-23.36.01:854][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.14-23.36.01:994][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/Dwanwii~/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.14-23.36.01:998][  0]LogInit: Texture streaming: Enabled
+[2020.12.14-23.36.02:009][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.14-23.36.02:009][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.14-23.36.02:015][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.14-23.36.02:315][  0]LogInit: Transaction tracking system initialized
+[2020.12.14-23.36.02:324][  0]BlueprintLog: New page: Editor Load
+[2020.12.14-23.36.02:351][  0]LocalizationService: Localization service is disabled
+[2020.12.14-23.36.02:404][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.14-23.36.02:404][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.14-23.36.02:841][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.14-23.36.02:841][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.14-23.36.02:922][  0]LogFileCache: Scanning file cache for directory 'D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Content/' took 0.01s
+[2020.12.14-23.36.03:685][  0]SourceControl: Source control is disabled
+[2020.12.14-23.36.03:685][  0]Cmd: MAP LOAD FILE="../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.14-23.36.03:685][  0]LightingResults: New page: Lighting Build
+[2020.12.14-23.36.03:686][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-23.36.03:686][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.36.03:686][  0]MapCheck: New page: Map Check
+[2020.12.14-23.36.03:686][  0]LightingResults: New page: Lighting Build
+[2020.12.14-23.36.03:710][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.12.14-23.36.05:449][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.14-23.36.05:573][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.14-23.36.05:621][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.12.14-23.36.05:622][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.14-23.36.05:622][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2020.12.14-23.36.05:622][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 1.937
+[2020.12.14-23.36.06:303][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.36.06:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.36.06:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.36.06:325][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.36.06:379][  0]LogCollectionManager: Loaded 0 collections in 0.002406 seconds
+[2020.12.14-23.36.06:476][  0]LogFileCache: Scanning file cache for directory 'D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Collections/' took 0.00s
+[2020.12.14-23.36.06:476][  0]LogFileCache: Scanning file cache for directory 'D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Content/Developers/Dwanwii/Collections/' took 0.00s
+[2020.12.14-23.36.06:476][  0]LogFileCache: Scanning file cache for directory 'D:/IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Content/Collections/' took 0.00s
+[2020.12.14-23.36.06:476][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3015 classes and 717 folders.
+[2020.12.14-23.36.06:569][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.14-23.36.10:875][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.14-23.36.11:290][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.12.14-23.36.12:114][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.14-23.36.12:117][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.14-23.36.12:143][  0]LogSlate: Took 0.021608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.14-23.36.12:396][  0]LogRenderer: Reallocating scene render targets to support 936x448 Format 10 NumSamples 1 (Frame:1).
+[2020.12.14-23.36.12:832][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.14-23.36.12:832][  0]LogLoad: (Engine Initialization) Total time: 22.43 seconds
+[2020.12.14-23.36.12:832][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.14-23.36.12:959][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.14-23.36.13:416][  0]LogSlate: Took 0.039138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.14-23.36.14:045][  9]LogAssetRegistry: Asset discovery search completed in 16.7580 seconds
+[2020.12.14-23.36.14:048][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.12.14-23.36.19:394][239]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.14-23.36.19:524][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.36.19:524][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-23.36.19:560][239]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 17:36:19)
+[2020.12.14-23.36.19:563][239]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.14-23.36.19:564][239]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.14-23.36.19:565][239]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.14-23.36.19:599][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034519s)
+[2020.12.14-23.36.19:600][239]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.14-23.36.19:600][239]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2020.12.14-23.36.19:600][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.035728s)
+[2020.12.14-23.36.19:623][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.12.14-23.36.19:624][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-23.36.19:624][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-23.36.19:624][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-23.36.19:624][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-23.36.19:624][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-23.36.19:625][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-23.36.19:625][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-23.36.19:625][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-23.36.19:625][239]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-23.36.19:625][239]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: Is Default: Yes
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: Channel Order:
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-23.36.19:634][239]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-23.36.19:656][239]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.14-23.36.19:658][239]LogInit: FAudioDevice initialized.
+[2020.12.14-23.36.19:666][239]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.14-23.36.19:743][239]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-20.36.19
+[2020.12.14-23.36.19:743][239]LogWorld: Bringing up level for play took: 0.010873
+[2020.12.14-23.36.19:744][239]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.12.14-23.36.19:859][239]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.14-23.36.19:862][239]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 1,111
+[2020.12.14-23.36.19:862][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.38.53:276][323]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.38.53:276][323]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.38.53:276][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.38.53:277][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.38.53:277][323]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.14-23.38.53:277][323]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.38.53:277][323]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-23.38.53:279][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.38.53:304][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-23.38.53:305][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.38.53:308][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.38.53:330][323]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.38.53:334][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.38.53:339][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.12.14-23.38.53:437][324]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.12.14-23.39.00:995][583]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.14-23.39.01:108][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyBullet.BP_EnemyBullet
+[2020.12.14-23.39.02:781][583]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.12.14-23.39.05:755][583]LogSlate: Took 0.025088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.14-23.39.06:139][584]LogSlate: Took 0.031148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.14-23.39.26:106][288]LogSlate: Window 'BP_EnemyBullet' being destroyed
+[2020.12.14-23.39.29:560][436]LogRenderer: Reallocating scene render targets to support 936x532 Format 10 NumSamples 1 (Frame:1).
+[2020.12.14-23.40.04:477][124]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerTank_C (TwinStickPawn)
+[2020.12.14-23.40.10:721][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/BP_PlayerTank.BP_PlayerTank
+[2020.12.14-23.42.50:122][166]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2020.12.14-23.42.55:051][441]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2020.12.14-23.42.55:720][479]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerTank_C (TwinStickPawn)
+[2020.12.14-23.42.58:555][572]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.12.14-23.42.58:860][577]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.12.14-23.43.07:901][816]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.12.14-23.43.08:264][827]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.12.14-23.43.37:722][622]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.14-23.43.38:014][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.43.38:070][622]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.14-23.43.38:194][622]LogPlayLevel: [PlayLevel] Compiling BP_PlayerTank before play...
+[2020.12.14-23.43.40:874][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.12.14-23.43.40:876][622]LogPlayLevel: PlayLevel: Blueprint regeneration took 2805 ms (1 blueprints)
+[2020.12.14-23.43.40:876][622]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 17:43:40)
+[2020.12.14-23.43.40:876][622]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.14-23.43.40:901][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025133s)
+[2020.12.14-23.43.40:902][622]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.14-23.43.40:903][622]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2020.12.14-23.43.40:903][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.026678s)
+[2020.12.14-23.43.41:020][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.12.14-23.43.41:020][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-23.43.41:020][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-23.43.41:020][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-23.43.41:020][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-23.43.41:020][622]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-23.43.41:020][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-23.43.41:020][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-23.43.41:020][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-23.43.41:021][622]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-23.43.41:021][622]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: Is Default: Yes
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: Channel Order:
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-23.43.41:029][622]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-23.43.41:045][622]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.14-23.43.41:046][622]LogInit: FAudioDevice initialized.
+[2020.12.14-23.43.41:054][622]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.14-23.43.41:065][622]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-20.43.41
+[2020.12.14-23.43.41:065][622]LogWorld: Bringing up level for play took: 0.009881
+[2020.12.14-23.43.41:065][622]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.12.14-23.43.41:069][622]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 2,319
+[2020.12.14-23.43.41:069][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.43.43:716][718]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-23.43.58:887][349]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.43.58:887][349]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.43.58:887][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.43.58:912][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.43.58:913][349]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.14-23.43.58:913][349]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.43.58:914][349]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-23.43.58:916][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.43.58:935][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-23.43.58:935][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.43.58:942][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.43.58:991][349]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.43.58:995][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.43.59:006][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.12.14-23.43.59:035][350]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.12.14-23.45.08:434][183]LogEditorTransaction: Undo Scale Actors
+[2020.12.14-23.45.08:763][184]LogEditorTransaction: Undo Scale Actors
+[2020.12.14-23.45.09:390][191]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.14-23.45.09:583][195]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.14-23.45.09:764][211]LogEditorTransaction: Undo Modify Component Scale
+[2020.12.14-23.45.10:180][241]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.14-23.45.10:541][271]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.11:582][363]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.11:992][400]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.14-23.45.12:193][415]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.12:573][447]LogEditorTransaction: Undo Modify Component Scale
+[2020.12.14-23.45.12:795][463]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.13:058][480]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.13:640][535]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.13:945][561]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.14:163][580]LogEditorTransaction: Undo Modify Component(s)
+[2020.12.14-23.45.14:426][601]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.14:687][621]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.14:966][646]LogEditorTransaction: Undo Set Vector Property
+[2020.12.14-23.45.15:236][670]LogEditorTransaction: Undo Edit Static Mesh
+[2020.12.14-23.45.15:507][689]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.14-23.49.33:563][233]LogEditorTransaction: Undo Edit Static Mesh
+[2020.12.14-23.51.57:588][707]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerTank_C (TwinStickPawn)
+[2020.12.14-23.52.09:979][960]LogRenderer: Reallocating scene render targets to support 1168x560 Format 10 NumSamples 1 (Frame:6459).
+[2020.12.14-23.52.24:730][980]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.14-23.52.24:966][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.52.24:985][980]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.14-23.52.25:007][980]LogPlayLevel: [PlayLevel] Compiling BP_PlayerTank before play...
+[2020.12.14-23.52.25:126][980]LogBlueprint: Error: [Compiler BP_PlayerTank] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.12.14-23.52.26:561][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.12.14-23.52.26:654][980]LogPlayLevel: PlayLevel: Blueprint regeneration took 1669 ms (1 blueprints)
+[2020.12.14-23.52.26:677][980]BlueprintLog: Warning: Blueprint failed to compile:  BP_PlayerTank
+[2020.12.14-23.52.26:714][980]LogCustomDialog: Dialog displayed:
+[2020.12.14-23.52.32:794][980]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.12.14-23.52.32:888][980]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 17:52:32)
+[2020.12.14-23.52.32:888][980]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.14-23.52.33:333][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.445451s)
+[2020.12.14-23.52.33:454][980]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.14-23.52.33:483][980]LogPlayLevel: PIE: World Init took: (0.149393s)
+[2020.12.14-23.52.33:483][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.595037s)
+[2020.12.14-23.52.33:517][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.12.14-23.52.33:551][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-23.52.33:551][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-23.52.33:551][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-23.52.33:551][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-23.52.33:551][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-23.52.33:551][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-23.52.33:551][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-23.52.33:551][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-23.52.33:552][980]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-23.52.33:552][980]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: Is Default: Yes
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: Channel Order:
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-23.52.33:562][980]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-23.52.33:579][980]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.14-23.52.33:583][980]LogInit: FAudioDevice initialized.
+[2020.12.14-23.52.33:592][980]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.14-23.52.33:696][980]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-20.52.33
+[2020.12.14-23.52.33:697][980]LogWorld: Bringing up level for play took: 0.063339
+[2020.12.14-23.52.33:726][980]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.12.14-23.52.33:922][980]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 9,172
+[2020.12.14-23.52.33:923][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.52.36:966][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.52.36:966][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.52.36:966][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.52.36:988][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.52.36:988][117]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.14-23.52.37:015][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.52.37:015][117]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-23.52.37:085][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.52.37:095][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-23.52.37:102][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.52.37:109][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.52.37:147][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.52.37:151][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.52.37:178][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.12.14-23.52.37:197][118]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.12.14-23.52.43:341][506]LogEditorTransaction: Undo Move Actors
+[2020.12.14-23.52.43:636][511]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.14-23.52.43:912][517]LogEditorTransaction: Undo Modify Component Scale
+[2020.12.14-23.52.44:154][536]LogEditorTransaction: Undo Modify Component Scale
+[2020.12.14-23.52.44:355][557]LogEditorTransaction: Undo Edit Static Mesh
+[2020.12.14-23.52.44:559][577]LogEditorTransaction: Undo Make New Scene Root
+[2020.12.14-23.52.44:759][594]LogEditorTransaction: Undo Add Component
+[2020.12.14-23.52.44:977][610]LogEditorTransaction: Undo Remove Components
+[2020.12.14-23.53.11:669][581]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.14-23.53.11:703][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.53.11:703][581]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.14-23.53.11:709][581]LogPlayLevel: [PlayLevel] Compiling BP_PlayerTank before play...
+[2020.12.14-23.53.12:216][581]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.12.14-23.53.12:251][581]LogPlayLevel: PlayLevel: Blueprint regeneration took 547 ms (1 blueprints)
+[2020.12.14-23.53.12:251][581]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 17:53:12)
+[2020.12.14-23.53.12:251][581]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.14-23.53.12:294][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042854s)
+[2020.12.14-23.53.12:296][581]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.14-23.53.12:296][581]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2020.12.14-23.53.12:296][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.045234s)
+[2020.12.14-23.53.12:353][581]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.12.14-23.53.12:384][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-23.53.12:384][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-23.53.12:384][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-23.53.12:384][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-23.53.12:384][581]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-23.53.12:384][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-23.53.12:384][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-23.53.12:384][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-23.53.12:384][581]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-23.53.12:384][581]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: Is Default: Yes
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: Channel Order:
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-23.53.12:401][581]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-23.53.12:429][581]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.14-23.53.12:432][581]LogInit: FAudioDevice initialized.
+[2020.12.14-23.53.12:499][581]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.14-23.53.12:517][581]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-20.53.12
+[2020.12.14-23.53.12:518][581]LogWorld: Bringing up level for play took: 0.017994
+[2020.12.14-23.53.12:518][581]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.12.14-23.53.12:524][581]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 1,774
+[2020.12.14-23.53.12:525][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.54.20:388][488]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.54.20:388][488]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.54.20:388][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.54.20:388][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.54.20:389][488]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.14-23.54.20:389][488]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.54.20:389][488]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-23.54.20:394][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.54.20:431][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-23.54.20:431][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.14-23.54.20:436][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-23.54.20:469][488]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.14-23.54.20:474][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-23.54.20:480][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.12.14-23.54.20:496][489]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.12.14-23.55.11:455][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.12.14-23.55.13:952][456]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/TwinStickExampleMap_Auto166B8CD5F4564EFE674AE6BA44DAF1222.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap'
+[2020.12.14-23.55.14:103][456]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 2.716
+[2020.12.14-23.55.14:103][456]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.716
+[2020.12.14-23.55.14:104][456]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_PlayerTank] ([1] browsable assets)...
+[2020.12.14-23.55.14:184][456]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/BP_PlayerTank.BP_PlayerTank]
+[2020.12.14-23.55.14:184][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_PlayerTank]
+[2020.12.14-23.55.14:630][456]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/BP_PlayerTank_Auto12EB721F94F45633D6D90D4A194C89CED.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_PlayerTank_Auto1.uasset'
+[2020.12.14-23.55.14:667][456]LogFileHelpers: Auto-saving content packages took 0.564
+[2020.12.14-23.55.56:585][207]LogEditorViewport: Clicking on Actor (context menu): BP_Floor_C (BP_Floor)
+[2020.12.14-23.55.58:478][248]LogEditorViewport: Clicking on Actor (LMB): BP_Floor_C (BP_Floor)
+[2020.12.15-00.04.42:207][529]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.15-00.04.43:211][530]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.15-00.05.19:810][647]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.15-00.07.31:669][877]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-00.07.31:704][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.07.31:704][877]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.15-00.07.32:268][877]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBullet before play...
+[2020.12.15-00.07.32:774][877]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.12.15-00.07.32:823][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 1120 ms (1 blueprints)
+[2020.12.15-00.07.32:824][877]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 18:07:32)
+[2020.12.15-00.07.32:824][877]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.07.32:874][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050255s)
+[2020.12.15-00.07.32:875][877]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.15-00.07.32:875][877]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2020.12.15-00.07.32:875][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.051498s)
+[2020.12.15-00.07.32:921][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.15-00.07.32:921][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-00.07.32:921][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-00.07.32:921][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-00.07.32:921][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-00.07.32:921][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-00.07.32:921][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-00.07.32:921][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-00.07.32:921][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-00.07.32:922][877]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-00.07.32:922][877]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: Is Default: Yes
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: Channel Order:
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-00.07.32:931][877]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-00.07.32:949][877]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.15-00.07.32:950][877]LogInit: FAudioDevice initialized.
+[2020.12.15-00.07.32:963][877]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.15-00.07.32:974][877]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-21.07.32
+[2020.12.15-00.07.32:974][877]LogWorld: Bringing up level for play took: 0.010494
+[2020.12.15-00.07.32:974][877]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.12.15-00.07.32:978][877]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 2,228
+[2020.12.15-00.07.32:978][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.07.38:930][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.07.38:930][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.07.38:930][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.07.38:930][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.07.38:930][171]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.07.38:930][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.07.38:931][171]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-00.07.38:935][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.07.38:967][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-00.07.38:968][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.07.38:973][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.07.39:005][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.07.39:008][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.07.39:014][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.12.15-00.07.39:032][172]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.12.15-00.07.45:842][606]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.45:842][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere' 
+[2020.12.15-00.07.45:842][606]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.45:842][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere' 
+[2020.12.15-00.07.45:843][606]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.45:843][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1' 
+[2020.12.15-00.07.45:843][606]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.45:843][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere' 
+[2020.12.15-00.07.45:843][606]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.45:843][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1' 
+[2020.12.15-00.07.45:844][606]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.45:844][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1' 
+[2020.12.15-00.07.45:844][606]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.45:844][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1' 
+[2020.12.15-00.07.46:410][663]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.46:410][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere' 
+[2020.12.15-00.07.46:411][663]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.46:411][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere' 
+[2020.12.15-00.07.46:411][663]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.46:411][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1' 
+[2020.12.15-00.07.46:412][663]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.46:412][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere' 
+[2020.12.15-00.07.46:412][663]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.46:412][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1' 
+[2020.12.15-00.07.46:413][663]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.46:413][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1' 
+[2020.12.15-00.07.46:413][663]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.12.15-00.07.46:413][663]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_EnemyBullet_C_0.Sphere1' 
+[2020.12.15-00.07.50:394][875]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-00.07.50:426][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.07.50:426][875]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.15-00.07.50:438][875]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBullet before play...
+[2020.12.15-00.07.50:917][875]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.12.15-00.07.50:919][875]LogPlayLevel: PlayLevel: Blueprint regeneration took 493 ms (1 blueprints)
+[2020.12.15-00.07.50:919][875]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 18:07:50)
+[2020.12.15-00.07.50:919][875]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.07.50:957][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037448s)
+[2020.12.15-00.07.50:958][875]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.15-00.07.50:959][875]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2020.12.15-00.07.50:959][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.039393s)
+[2020.12.15-00.07.51:011][875]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.12.15-00.07.51:012][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-00.07.51:012][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-00.07.51:012][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-00.07.51:012][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-00.07.51:012][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-00.07.51:012][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-00.07.51:012][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-00.07.51:012][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-00.07.51:012][875]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-00.07.51:012][875]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-00.07.51:026][875]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.15-00.07.51:026][875]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.15-00.07.51:026][875]LogAudioMixer: Display: Is Default: Yes
+[2020.12.15-00.07.51:026][875]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.15-00.07.51:026][875]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.15-00.07.51:026][875]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.15-00.07.51:026][875]LogAudioMixer: Display: Channel Order:
+[2020.12.15-00.07.51:027][875]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-00.07.51:027][875]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-00.07.51:053][875]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.15-00.07.51:055][875]LogInit: FAudioDevice initialized.
+[2020.12.15-00.07.51:067][875]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.15-00.07.51:088][875]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-21.07.51
+[2020.12.15-00.07.51:088][875]LogWorld: Bringing up level for play took: 0.019587
+[2020.12.15-00.07.51:089][875]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.12.15-00.07.51:094][875]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0,343
+[2020.12.15-00.07.51:094][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.07.54:497][  9]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.07.54:498][  9]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.07.54:498][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.07.54:498][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.07.54:498][  9]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.07.54:498][  9]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.07.54:499][  9]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-00.07.54:502][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.07.54:542][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-00.07.54:542][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.07.54:548][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.07.54:601][  9]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.07.54:606][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.07.54:615][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.12.15-00.07.54:641][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.12.15-00.08.16:533][418]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-00.08.16:558][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.08.16:558][418]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.15-00.08.16:565][418]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBullet before play...
+[2020.12.15-00.08.16:948][418]LogUObjectHash: Compacting FUObjectHashTables data took 125.02ms
+[2020.12.15-00.08.16:957][418]LogPlayLevel: PlayLevel: Blueprint regeneration took 398 ms (1 blueprints)
+[2020.12.15-00.08.16:957][418]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 18:08:16)
+[2020.12.15-00.08.16:957][418]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.08.16:982][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024475s)
+[2020.12.15-00.08.16:982][418]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.15-00.08.16:983][418]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2020.12.15-00.08.16:983][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.025654s)
+[2020.12.15-00.08.17:018][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.15-00.08.17:018][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-00.08.17:018][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-00.08.17:018][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-00.08.17:018][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-00.08.17:018][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-00.08.17:018][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-00.08.17:018][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-00.08.17:018][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-00.08.17:019][418]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-00.08.17:019][418]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: Is Default: Yes
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: Channel Order:
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-00.08.17:027][418]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-00.08.17:042][418]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.15-00.08.17:043][418]LogInit: FAudioDevice initialized.
+[2020.12.15-00.08.17:050][418]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.15-00.08.17:061][418]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-21.08.17
+[2020.12.15-00.08.17:061][418]LogWorld: Bringing up level for play took: 0.010280
+[2020.12.15-00.08.17:061][418]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.12.15-00.08.17:065][418]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0,315
+[2020.12.15-00.08.17:065][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.08.47:250][761]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.08.47:250][761]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.08.47:250][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.08.47:250][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.08.47:250][761]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.08.47:250][761]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.08.47:251][761]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-00.08.47:255][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.08.47:290][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-00.08.47:291][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.08.47:301][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.08.47:468][761]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.08.47:474][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.08.47:484][761]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.12.15-00.08.47:505][762]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.12.15-00.11.22:402][799]LogSlate: Took 0.106178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.12.15-00.11.31:469][460]BlueprintLog: New page: Compile BP_EnemyBullet
+[2020.12.15-00.11.32:007][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.12.15-00.14.43:881][825]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-00.14.43:935][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.14.43:935][825]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.15-00.14.43:946][825]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBullet before play...
+[2020.12.15-00.14.44:426][825]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.12.15-00.14.44:434][825]LogPlayLevel: PlayLevel: Blueprint regeneration took 498 ms (1 blueprints)
+[2020.12.15-00.14.44:434][825]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 18:14:44)
+[2020.12.15-00.14.44:434][825]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.14.44:477][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042122s)
+[2020.12.15-00.14.44:478][825]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.15-00.14.44:478][825]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2020.12.15-00.14.44:478][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.044058s)
+[2020.12.15-00.14.44:530][825]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.12.15-00.14.44:532][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-00.14.44:532][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-00.14.44:532][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-00.14.44:532][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-00.14.44:532][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-00.14.44:532][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-00.14.44:532][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-00.14.44:532][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-00.14.44:532][825]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-00.14.44:532][825]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-00.14.44:547][825]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.15-00.14.44:547][825]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.15-00.14.44:547][825]LogAudioMixer: Display: Is Default: Yes
+[2020.12.15-00.14.44:547][825]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.15-00.14.44:547][825]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.15-00.14.44:547][825]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.15-00.14.44:548][825]LogAudioMixer: Display: Channel Order:
+[2020.12.15-00.14.44:548][825]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-00.14.44:548][825]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-00.14.44:573][825]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.15-00.14.44:603][825]LogInit: FAudioDevice initialized.
+[2020.12.15-00.14.44:873][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.14.44:919][825]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.15-00.14.44:938][825]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-21.14.44
+[2020.12.15-00.14.44:938][825]LogWorld: Bringing up level for play took: 0.018498
+[2020.12.15-00.14.44:939][825]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.12.15-00.14.45:117][825]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0,367
+[2020.12.15-00.14.45:118][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.14.45:435][826]LogRenderer: Reallocating scene render targets to support 1168x576 Format 10 NumSamples 1 (Frame:1).
+[2020.12.15-00.15.00:670][332]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.15.00:670][332]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.15.00:670][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.15.00:670][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.15.00:670][332]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.15.00:695][332]LogSlate: Window 'Tarea2_Battlecity Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.12.15-00.15.00:880][332]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.15.00:883][332]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-00.15.00:887][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.15.00:903][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-00.15.00:903][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.15.00:914][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.15.00:968][332]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.15.00:984][332]LogUObjectHash: Compacting FUObjectHashTables data took   9.55ms
+[2020.12.15-00.15.00:999][333]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.12.15-00.15.25:565][580]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-00.15.25:588][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.15.25:588][580]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.15-00.15.25:595][580]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBullet before play...
+[2020.12.15-00.15.25:858][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.12.15-00.15.25:901][580]LogPlayLevel: PlayLevel: Blueprint regeneration took 313 ms (1 blueprints)
+[2020.12.15-00.15.25:901][580]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 18:15:25)
+[2020.12.15-00.15.25:901][580]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.15.25:957][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056138s)
+[2020.12.15-00.15.25:959][580]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.15-00.15.25:959][580]LogPlayLevel: PIE: World Init took: (0.002017s)
+[2020.12.15-00.15.25:959][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.058369s)
+[2020.12.15-00.15.25:998][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.12.15-00.15.25:998][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-00.15.25:998][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-00.15.25:998][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-00.15.25:998][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-00.15.25:998][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-00.15.25:998][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-00.15.25:998][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-00.15.25:998][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-00.15.25:999][580]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-00.15.25:999][580]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-00.15.26:009][580]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.15-00.15.26:009][580]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.15-00.15.26:009][580]LogAudioMixer: Display: Is Default: Yes
+[2020.12.15-00.15.26:009][580]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.15-00.15.26:009][580]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.15-00.15.26:016][580]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.15-00.15.26:016][580]LogAudioMixer: Display: Channel Order:
+[2020.12.15-00.15.26:016][580]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-00.15.26:016][580]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-00.15.26:032][580]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.15-00.15.26:034][580]LogInit: FAudioDevice initialized.
+[2020.12.15-00.15.26:143][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.15.26:144][580]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.15-00.15.26:163][580]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-21.15.26
+[2020.12.15-00.15.26:163][580]LogWorld: Bringing up level for play took: 0.018626
+[2020.12.15-00.15.26:164][580]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.12.15-00.15.26:169][580]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 1,419
+[2020.12.15-00.15.26:169][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.15.31:884][790]LogBlueprintUserMessages: [BP_EnemyBullet_C_0] Hello
+[2020.12.15-00.15.32:867][820]LogBlueprintUserMessages: [BP_EnemyBullet_C_1] Hello
+[2020.12.15-00.15.33:885][851]LogBlueprintUserMessages: [BP_EnemyBullet_C_2] Hello
+[2020.12.15-00.15.34:933][885]LogBlueprintUserMessages: [BP_EnemyBullet_C_3] Hello
+[2020.12.15-00.15.43:003][149]LogBlueprintUserMessages: [BP_EnemyBullet_C_11] Hello
+[2020.12.15-00.15.44:041][184]LogBlueprintUserMessages: [BP_EnemyBullet_C_12] Hello
+[2020.12.15-00.15.45:065][216]LogBlueprintUserMessages: [BP_EnemyBullet_C_13] Hello
+[2020.12.15-00.15.45:513][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.15.45:513][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.15.45:513][230]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.15.45:514][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.15.45:514][230]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.15.45:562][230]LogSlate: Window 'Tarea2_Battlecity Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.12.15-00.15.45:609][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.15.45:609][230]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-00.15.45:613][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.15.45:626][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-00.15.45:626][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.15.45:633][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.15.45:687][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.15.45:701][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.12.15-00.15.45:720][231]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.12.15-00.15.50:710][605]BlueprintLog: New page: Compile BP_EnemyBullet
+[2020.12.15-00.15.50:981][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.12.15-00.15.54:963][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.12.15-00.17.36:712][715]LogSlate: Window 'Save Content' being destroyed
+[2020.12.15-00.17.37:859][715]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/BP_EnemyBulletB63414374D5F4E0A75F738AB37FBBD9E.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Content/TwinStickBP/Blueprints/BP_EnemyBullet.uasset'
+[2020.12.15-00.17.38:174][715]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/BP_PlayerTank2E429395494488261EF7C5ADB9FF7206.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Content/TwinStickBP/Blueprints/BP_PlayerTank.uasset'
+[2020.12.15-00.17.38:307][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.12.15-00.17.38:979][715]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/TwinStickExampleMapBAFCEA0B42BE7A5559A64ABD1B2C9B30.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2020.12.15-00.17.39:196][715]LogFileHelpers: Saving map 'TwinStickExampleMap' took 1.011
+[2020.12.15-00.17.39:547][715]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.15-00.17.39:547][715]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_EnemyBullet.BP_EnemyBullet
+[2020.12.15-00.17.39:563][715]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/BP_PlayerTank.BP_PlayerTank
+[2020.12.15-00.17.39:563][715]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2020.12.15-00.24.40:196][181]Cmd: DELETE
+[2020.12.15-00.24.40:196][181]Cmd: ACTOR DELETE
+[2020.12.15-00.24.40:990][181]LogEditorActor: Deleted Actor: BP_Base_C
+[2020.12.15-00.24.41:039][181]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.12.15-00.24.41:052][181]LogEditorActor: Deleted 1 Actors (0.204 secs)
+[2020.12.15-00.25.23:540][559]LogRenderer: Reallocating scene render targets to support 1168x664 Format 10 NumSamples 1 (Frame:30994).
+[2020.12.15-00.25.36:172][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Enemy/BP_TankEnemy.BP_TankEnemy
+[2020.12.15-00.27.30:563][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.12.15-00.27.31:220][721]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/TwinStickExampleMap_Auto2591187B24B6C9DDF94554E8F6356E1C0.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto2.umap'
+[2020.12.15-00.27.31:260][721]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.752
+[2020.12.15-00.27.31:260][721]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.752
+[2020.12.15-00.27.31:261][721]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Enemy/BP_TankEnemy] ([1] browsable assets)...
+[2020.12.15-00.27.31:278][721]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Enemy/BP_TankEnemy.BP_TankEnemy]
+[2020.12.15-00.27.31:278][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Enemy/BP_TankEnemy]
+[2020.12.15-00.27.31:510][721]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/BP_TankEnemy_Auto2143828D8448DA18AF2CD07A057D7A592.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Enemy/BP_TankEnemy_Auto2.uasset'
+[2020.12.15-00.27.31:527][721]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TwinStickBP/Blueprints/BP_EnemyBullet] ([1] browsable assets)...
+[2020.12.15-00.27.31:527][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/BP_EnemyBullet]
+[2020.12.15-00.27.31:674][721]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/BP_EnemyBullet_Auto2C135AD1F499660BC074249908D415796.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Blueprints/BP_EnemyBullet_Auto2.uasset'
+[2020.12.15-00.27.31:688][721]LogFileHelpers: Auto-saving content packages took 0.428
+[2020.12.15-00.33.43:417][864]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/BP_Shovel.BP_Shovel
+[2020.12.15-00.34.06:474][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/BP_TimePower.BP_TimePower
+[2020.12.15-00.37.32:077][753]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.12.15-00.37.32:244][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.228
+[2020.12.15-00.37.32:277][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Enemy/BP_TankEnemy] ([1] browsable assets)...
+[2020.12.15-00.37.32:296][753]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Enemy/BP_TankEnemy.BP_TankEnemy]
+[2020.12.15-00.37.32:296][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Enemy/BP_TankEnemy]
+[2020.12.15-00.37.32:512][753]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/BP_TankEnemy_Auto3F517B98A4C0B1570063CE5838A4C6BDE.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Enemy/BP_TankEnemy_Auto3.uasset'
+[2020.12.15-00.37.32:521][753]LogFileHelpers: Auto-saving content packages took 0.244
+[2020.12.15-00.40.44:396][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Enemy/AI_TankEnemy.AI_TankEnemy
+[2020.12.15-00.41.25:938][644]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-00.41.25:968][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.41.25:968][644]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.15-00.41.26:030][644]LogPlayLevel: [PlayLevel] Compiling AI_TankEnemy before play...
+[2020.12.15-00.41.26:243][644]LogPlayLevel: [PlayLevel] Compiling BP_TankEnemy before play...
+[2020.12.15-00.41.26:692][644]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.12.15-00.41.26:724][644]LogPlayLevel: PlayLevel: Blueprint regeneration took 756 ms (2 blueprints)
+[2020.12.15-00.41.26:724][644]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 18:41:26)
+[2020.12.15-00.41.26:726][644]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.41.26:846][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121184s)
+[2020.12.15-00.41.26:847][644]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.15-00.41.26:847][644]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2020.12.15-00.41.26:848][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.122432s)
+[2020.12.15-00.41.26:894][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.12.15-00.41.26:905][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-00.41.26:905][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-00.41.26:905][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-00.41.26:905][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-00.41.26:905][644]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-00.41.26:905][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-00.41.26:905][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-00.41.26:905][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-00.41.26:905][644]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-00.41.26:906][644]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-00.41.26:914][644]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.15-00.41.26:914][644]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.15-00.41.26:915][644]LogAudioMixer: Display: Is Default: Yes
+[2020.12.15-00.41.26:915][644]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.15-00.41.26:915][644]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.15-00.41.26:915][644]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.15-00.41.26:915][644]LogAudioMixer: Display: Channel Order:
+[2020.12.15-00.41.26:915][644]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-00.41.26:915][644]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-00.41.26:931][644]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.15-00.41.26:933][644]LogInit: FAudioDevice initialized.
+[2020.12.15-00.41.27:157][644]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.15-00.41.27:170][644]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-21.41.27
+[2020.12.15-00.41.27:170][644]LogWorld: Bringing up level for play took: 0.012021
+[2020.12.15-00.41.27:170][644]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.12.15-00.41.27:174][644]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0,424
+[2020.12.15-00.41.27:175][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.41.34:203][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.41.34:203][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.41.34:203][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.41.34:203][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.41.34:203][973]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.41.34:492][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.41.34:492][973]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-00.41.34:495][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.41.34:508][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-00.41.34:508][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.41.34:514][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.41.35:785][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.41.35:791][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.41.35:801][973]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.12.15-00.41.35:836][974]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.12.15-00.47.41:163][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.12.15-00.47.41:558][623]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/TwinStickExampleMap_Auto4C6B88A2F45B0A4CCE2BAAABE9CDBC2B6.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto4.umap'
+[2020.12.15-00.47.41:599][623]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.481
+[2020.12.15-00.47.41:600][623]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.481
+[2020.12.15-00.47.41:600][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TwinStickBP/Enemy/AI_TankEnemy] ([1] browsable assets)...
+[2020.12.15-00.47.41:600][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Enemy/AI_TankEnemy]
+[2020.12.15-00.47.41:661][623]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/AI_TankEnemy_Auto4CA2ACB9544EA64FCBD2C2FBE4FDE7138.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Enemy/AI_TankEnemy_Auto4.uasset'
+[2020.12.15-00.47.41:662][623]LogFileHelpers: Auto-saving content packages took 0.063
+[2020.12.15-00.53.19:872][728]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-00.53.20:014][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.53.20:015][728]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.15-00.53.20:016][728]LogPlayLevel: [PlayLevel] Compiling AI_TankEnemy before play...
+[2020.12.15-00.53.20:449][728]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.12.15-00.53.20:450][728]LogPlayLevel: PlayLevel: Blueprint regeneration took 435 ms (1 blueprints)
+[2020.12.15-00.53.20:451][728]PIE: New page: PIE session: TwinStickExampleMap (14-12-2020 18:53:20)
+[2020.12.15-00.53.20:451][728]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.53.20:493][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042616s)
+[2020.12.15-00.53.20:495][728]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2020.12.15-00.53.20:496][728]LogPlayLevel: PIE: World Init took: (0.002067s)
+[2020.12.15-00.53.20:496][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.044997s)
+[2020.12.15-00.53.20:565][728]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.12.15-00.53.20:565][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-00.53.20:565][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-00.53.20:565][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-00.53.20:565][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-00.53.20:565][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-00.53.20:565][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-00.53.20:565][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-00.53.20:565][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-00.53.20:566][728]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-00.53.20:572][728]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: Is Default: Yes
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: Channel Order:
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-00.53.20:587][728]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-00.53.20:613][728]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.12.15-00.53.20:615][728]LogInit: FAudioDevice initialized.
+[2020.12.15-00.53.20:956][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.53.20:960][728]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.12.15-00.53.20:981][728]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2020.12.14-21.53.20
+[2020.12.15-00.53.20:982][728]LogWorld: Bringing up level for play took: 0.021015
+[2020.12.15-00.53.20:983][728]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.12.15-00.53.20:990][728]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0,239
+[2020.12.15-00.53.20:990][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.53.55:081][887]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.53.55:081][887]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.53.55:081][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.53.55:082][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-00.53.55:082][887]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2020.12.15-00.53.55:648][887]LogSlate: Window 'Tarea2_Battlecity Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.12.15-00.53.55:741][887]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.53.55:742][887]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-00.53.55:745][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.53.55:838][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-00.53.55:839][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap' with GeneratedClass '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap:PersistentLevel.TwinStickExampleMap'
+[2020.12.15-00.53.55:846][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-00.53.55:907][887]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.12.15-00.53.55:922][887]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.12.15-00.53.55:941][888]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.12.15-00.57.54:971][316]LogSlate: Window 'Tutorials' being destroyed
+[2020.12.15-00.58.25:486][250]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.15-00.58.37:056][626]LogUObjectHash: Compacting FUObjectHashTables data took 685.86ms
+[2020.12.15-00.58.37:571][626]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 1.536
+[2020.12.15-00.58.37:573][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TwinStickBP/Enemy/AI_TankEnemy] ([1] browsable assets)...
+[2020.12.15-00.58.37:573][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Enemy/AI_TankEnemy]
+[2020.12.15-00.58.42:421][626]LogSavePackage: Moving '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/AI_TankEnemy_Auto56CA6091F4A066EEDC1583BB26FDC1F07.tmp' to '../../../../../IDVRV/6to Semestre/Programación de Videojuegos 3D/Tarea2_Battlecity/Saved/Autosaves/Game/TwinStickBP/Enemy/AI_TankEnemy_Auto5.uasset'
+[2020.12.15-00.58.42:626][626]LogFileHelpers: Auto-saving content packages took 5.053
+[2020.12.15-00.58.48:357][680]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.15-01.03.42:357][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.15-01.03.45:036][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.15-01.03.47:663][951]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.15-01.17.13:579][652]LogUObjectArray: Warning: Other object in slot
+[2020.12.15-01.17.13:836][652]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.15-01.18.19:970][652]LogStats: FPlatformStackWalk::StackWalkAndDump - 65.976 s
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: 
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: Stack: 
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ffa06c47b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ffa0645678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ffa0646409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ff9f8bfc5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ff9f79e977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ff9f79a1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ffa1241b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ffa1260dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.15-01.18.19:970][652]LogOutputDevice: Error: [Callstack] 0x00007ffa124660b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa124446f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa12438ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa48e44ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa48e3242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa48e47195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa48e2ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa976e5c1d USER32.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa976e5612 USER32.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa48e48699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ff772d46db0 UE4Editor.exe!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ff772d5c3ec UE4Editor.exe!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ff772d5c4ca UE4Editor.exe!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ff772d6ceae UE4Editor.exe!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ff772d6fcbe UE4Editor.exe!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa96c97c24 KERNEL32.DLL!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: [Callstack] 0x00007ffa979ad4d1 ntdll.dll!UnknownFunction []
+[2020.12.15-01.18.20:011][652]LogOutputDevice: Error: 
+[2020.12.15-01.18.20:060][652]LogStats:                SubmitErrorReport -  0.000 s
